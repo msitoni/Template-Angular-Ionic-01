@@ -1,8 +1,6 @@
 {
   "name": "Template-Angular-Ionic-01",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,6 +9,19 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msitoni/Template-Angular-Ionic-01.git"
+  },
+    "author": "Marcio A. Sitoni <msitoni@hotmail.com> (https://www.sitoni.com.br/)",
+    "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msitoni/Template-Angular-Ionic-01/issues"
+  },
+  "homepage": "https://github.com/msitoni/Template-Angular-Ionic-01/#readme",
+
+
   "private": true,
   "dependencies": {
     "@angular/common": "~8.1.2",
